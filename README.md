@@ -1,2 +1,5 @@
 # w266_aes
-Final Project for Automated Essay Scoring
+
+# Automated Essay Scoring Final Project
+## Group Members: Sharon Wu, Candice Sener, Vish Pillai
+
