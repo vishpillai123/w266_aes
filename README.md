@@ -12,8 +12,8 @@ GitHub Repo Organization:
 Each folder includes a .ipyn notebook that corresponds to the name of the folder. 
 
 ### Folders:
--EDA 
--Semantic Score
--Prompt-Relevance Score
--Coherence Score
--Second Stage 
+* EDA 
+* Semantic Score
+* Prompt-Relevance Score
+* Coherence Score
+* Second Stage 
