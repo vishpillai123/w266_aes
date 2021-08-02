@@ -3,13 +3,13 @@
 
 ### Abstract: 
 
-Automated essay scoring has not only been effective in decreasing the time to assess an essay but also to assess essays more fairly in standardized tests. This project aims to develop AES by using BERT and LSTM. By utilizing the self-attention framework, we observed whether it can improve the two-stage learning framework. TSLF-ALL was compared to TSLF-1 BERT and TSLF-2, and we found that TSLF-ALL demonstrated the highest effectiveness and robustness when the sample sizes were small.
+Our project aims to develop AES by using BERT base and BERT-LSTM models in order to assess whether an RNN layer is needed for an effective two-stage learning framework. We found that our BERT base model is competitive to the original TSLF-1 (6). On another note, our implementation of clique-based coherence based on BERT’s sentence pairing feature was ineffective in capturing coherence of longer passages. Overall, we found that TSLF-ALL demonstrated robustness with small sample sizes and adversarial samples.
 
 **Dataset:** Kaggle ASAP Dataset by The Hewlett Foundation
 
 ### GitHub Repo Organization:
 
-Each folder includes a .ipyn notebook that corresponds to the name of the folder. 
+Each folder includes a .ipynb notebook that corresponds to the name of the folder. 
 
 ### Folders:
 * EDA 
